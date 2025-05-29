@@ -1,6 +1,6 @@
 # Agent-Mcp-Lab
 
-智能体 接入WavespeedAi Mcp Server,教程合集。
+智能体 接入WavespeedAi Mcp 服务,教程合集。
 
  
 ## 智能体列表
