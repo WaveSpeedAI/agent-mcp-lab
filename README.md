@@ -15,7 +15,7 @@ This repository contains tutorials, examples, and integration guides for connect
 
 
 ## List of AI Agents
-|Name|Stars|intro|Remark|
+|Name|GitHub|intro|Remark|
 |---|---|---|---|
-|[Trae](https://www.trae.ai) |![GitHub Repo stars](https://img.shields.io/github/stars/Trae-AI/Trae?style=social)|A free AI IDE launched by ByteDance, featuring native Chinese support and integration with mainstream AI models like Claude 3.7 and GPT-4o.|Offers Builder and Chat modes, supports intelligent code generation and optimization with native Chinese language support.|
-|[AIpy](https://www.aipy.app/) |![GitHub Repo stars](https://img.shields.io/github/stars/knownsec/aipyapp?style=social)|AI-Powered Python & Python-Powered AI (Python-Use) - A new paradigm for AI agents.|Provides the entire Python execution environment to LLMs, allowing them to freely use all Python features without predefined tool interfaces. Supports both task mode and Python mode.|
+|[Trae](https://www.trae.ai) |[Trae-AI/Trae](https://github.com/Trae-AI/Trae)|A free AI IDE launched by ByteDance, featuring native Chinese support and integration with mainstream AI models like Claude 3.7 and GPT-4o.|Offers Builder and Chat modes, supports intelligent code generation and optimization with native Chinese language support.|
+|[AIpy](https://www.aipy.app/) |[knownsec/aipyapp](https://github.com/knownsec/aipyapp)|AI-Powered Python & Python-Powered AI (Python-Use) - A new paradigm for AI agents.|Provides the entire Python execution environment to LLMs, allowing them to freely use all Python features without predefined tool interfaces. Supports both task mode and Python mode.|

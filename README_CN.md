@@ -15,8 +15,8 @@ MCP智能体生态为开发者提供了一个统一的框架，用于连接、�
 
  
 ## 智能体列表
-|名称|Stars|简介|备注|
+|名称|GitHub|简介|备注|
 |---|---|---|---|
-|[Trae](https://www.trae.ai) |![GitHub Repo stars](https://img.shields.io/github/stars/Trae-AI/Trae?style=social)|字节跳动推出的免费AI IDE，支持原生中文，集成了Claude 3.7和GPT-4o等主流AI模型|提供Builder和Chat两种模式，支持智能代码生成与优化，原生中文支持|
-|[AIpy](https://www.aipy.app/) |![GitHub Repo stars](https://img.shields.io/github/stars/knownsec/aipyapp?style=social)|人工智能驱动的Python和Python驱动的人工智能（Python-Use）- 一种新的AI智能体范式|为LLM提供完整的Python执行环境，允许其自由使用所有Python功能，无需预定义工具接口。支持任务模式和Python模式|
+|[Trae](https://www.trae.ai) |[Trae-AI/Trae](https://github.com/Trae-AI/Trae)|字节跳动推出的免费AI IDE，支持原生中文，集成了Claude 3.7和GPT-4o等主流AI模型|提供Builder和Chat两种模式，支持智能代码生成与优化，原生中文支持|
+|[AIpy](https://www.aipy.app/) |[knownsec/aipyapp](https://github.com/knownsec/aipyapp)|人工智能驱动的Python和Python驱动的人工智能（Python-Use）- 一种新的AI智能体范式|为LLM提供完整的Python执行环境，允许其自由使用所有Python功能，无需预定义工具接口。支持任务模式和Python模式|
 |
