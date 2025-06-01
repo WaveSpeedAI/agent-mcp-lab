@@ -233,4 +233,7 @@ Start creating today!
 
 🔗 [WaveSpeed MCP Repository](https://github.com/WaveSpeedAI/mcp-server)
 
-📲 Follow us on Twitter and LinkedIn, and join our Discord community for updates and support.
+📲 Connect with us:
+- [Twitter](https://x.com/wavespeed_ai)
+- [LinkedIn](https://www.linkedin.com/company/wavespeed-ai/)
+- [Discord Community](https://discord.com/invite/yH8a3J4Vcd)
