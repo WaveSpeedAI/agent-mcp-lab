@@ -13,6 +13,19 @@ The MCP Agent Ecosystem provides a unified framework for developers to connect, 
 
 This repository contains tutorials, examples, and integration guides for connecting various AI agents to the WavespeedAI MCP Server ecosystem.
 
+## MCP Server: Multimodal Capabilities
+
+[WavespeedMCP Server](https://github.com/WaveSpeedAI/mcp-server) is our official implementation of the Model Control Protocol (MCP) server for WaveSpeed AI services. It provides a standardized interface for accessing advanced multimodal capabilities through the MCP protocol.
+
+### Key Features
+
+- **Advanced Image Generation**: Create high-quality images from text prompts with support for image-to-image generation, inpainting, and LoRA models
+- **Dynamic Video Generation**: Transform static images into videos with customizable motion parameters
+- **Optimized Performance**: Enhanced API polling with intelligent retry logic and detailed progress tracking
+- **Flexible Resource Handling**: Support for URL, Base64, and local file output modes
+- **Comprehensive Error Handling**: Specialized exception hierarchy for precise error identification and recovery
+
+The MCP Server follows a clean, modular architecture with components for server implementation, API client optimization, resource handling, and error management. It can be easily configured through environment variables, command-line arguments, or configuration files.
 
 ## List of AI Agents
 |Name|GitHub|intro|Remark|
