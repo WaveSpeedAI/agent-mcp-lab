@@ -64,15 +64,15 @@ WaveSpeedAI is the world's fastest and most cost-effective AI platform for image
 
 If you don't already have an account, you can create one [here](https://wavespeed.ai).
 
-![WaveSpeedAI Homepage](./asset/1748705431540450088_nhnjgb8x.webp)
+![WaveSpeedAI Homepage](asset/1748705431540450088_nhnjgb8x.webp)
 
 
 
-![Sign up process](./asset/1748705435756374954_3aCCDIMN.webp)
+![Sign up process](asset/1748705435756374954_3aCCDIMN.webp)
 
 Get Access Key.
 
-![Get Access Key](./asset/1748705440063487736_Pvso41XT.webp)
+![Get Access Key](asset/1748705440063487736_Pvso41XT.webp)
 
 ### Install the WaveSpeedAI MCP
 
@@ -96,11 +96,11 @@ pip show wavespeed-mcp
 
 **Step 1:** Launch the Windsurf IDE and click the gear icon in the upper right corner to access the settings panel, then search for 'MCP'.
 
-![Windsurf Settings](./asset/1748830893954385333_CzTROKIE.webp)
+![Windsurf Settings](asset/1748830893954385333_CzTROKIE.webp)
 
 **Step 2:** Configure the MCP Server. When redirected to the MCP list, click Add. In the MCP marketplace that appears, locate the "Configure Manually" option below the search box and click it.
 
-![MCP Configuration](./asset/1748830898813768514_uXa6TPNI.webp)
+![MCP Configuration](asset/1748830898813768514_uXa6TPNI.webp)
 
 **Step 3:** Configure your WAVESPEED_API_KEY.
 
@@ -136,11 +136,11 @@ A man dressed in a classic suit, wearing a dark jacket paired with a striped shi
 
 **Agent Running Process:**
 
-![Agent Process](./asset/1748830902079561216_Reonkjkj.webp)
+![Agent Process](asset/1748830902079561216_Reonkjkj.webp)
 
 **Result:**
 
-![Generated Image](./asset/1748705463160818023_uZ2iVayO.webp)
+![Generated Image](asset/1748705463160818023_uZ2iVayO.webp)
 
 ### Use FLUX.1 Kontext and See the Showcase
 
@@ -150,11 +150,11 @@ A man dressed in a classic suit, wearing a dark jacket paired with a striped shi
 
 **Agent Running Process:**
 
-![Background Change Process](./asset/1748830906358464130_Xljgeb6R.webp)
+![Background Change Process](asset/1748830906358464130_Xljgeb6R.webp)
 
 **Result:**
 
-![Background Changed](./asset/1748705471235905591_5TPMIGDz.webp)
+![Background Changed](asset/1748705471235905591_5TPMIGDz.webp)
 
 *Note: Images are automatically uploaded and optimized based on the prompt text.*
 
@@ -164,11 +164,11 @@ A man dressed in a classic suit, wearing a dark jacket paired with a striped shi
 
 **Agent Running Process:**
 
-![Style Change Process](./asset/1748830910152511142_Eqomifb7.webp)
+![Style Change Process](asset/1748830910152511142_Eqomifb7.webp)
 
 **Result:**
 
-![Cartoon Style](./asset/1748705479698088610_zAFCxurn.webp)
+![Cartoon Style](asset/1748705479698088610_zAFCxurn.webp)
 
 #### Showcase 3: FLUX.1 Kontext Add Text
 
@@ -176,11 +176,11 @@ A man dressed in a classic suit, wearing a dark jacket paired with a striped shi
 
 **Agent Running Process:**
 
-![Add Text Process](./asset/1748830914185622709_JfI1oHXj.webp)
+![Add Text Process](asset/1748830914185622709_JfI1oHXj.webp)
 
 **Result:**
 
-![Text Added](./asset/1748705488729110114_MQ0XTPLI.webp)
+![Text Added](asset/1748705488729110114_MQ0XTPLI.webp)
 
 #### Showcase 4: FLUX.1 Kontext Text Editing
 
@@ -188,11 +188,11 @@ A man dressed in a classic suit, wearing a dark jacket paired with a striped shi
 
 **Agent Running Process:**
 
-![Text Edit Process](./asset/1748830918088257694_yEPMIEBw.png)
+![Text Edit Process](asset/1748830918088257694_yEPMIEBw.png)
 
 **Result:**
 
-![Text Edited](./asset/1748705498771081684_AKT3eU3c.webp)
+![Text Edited](asset/1748705498771081684_AKT3eU3c.webp)
 
 #### Showcase 5: FLUX.1 Kontext Posture Change
 
@@ -200,11 +200,11 @@ A man dressed in a classic suit, wearing a dark jacket paired with a striped shi
 
 **Agent Running Process:**
 
-![Posture Change Process](./asset/1748830922310863528_Vvtqnjfb.png)
+![Posture Change Process](asset/1748830922310863528_Vvtqnjfb.png)
 
 **Result:**
 
-![Posture Changed](./asset/1748705508822359769_ddmjgc9s.webp)
+![Posture Changed](asset/1748705508822359769_ddmjgc9s.webp)
 
 #### Showcase 6: FLUX.1 Kontext Semantic Understanding
 
@@ -212,11 +212,11 @@ A man dressed in a classic suit, wearing a dark jacket paired with a striped shi
 
 **Agent Running Process:**
 
-![Semantic Understanding Process](./asset/1748830926758753125_NXc8pkhd.png)
+![Semantic Understanding Process](asset/1748830926758753125_NXc8pkhd.png)
 
 **Result:**
 
-![Album Cover](./asset/1748705519167844613_RhFByuqm.webp)
+![Album Cover](asset/1748705519167844613_RhFByuqm.webp)
 
 ## 7. Start Using FLUX.1 Kontext Today
 
